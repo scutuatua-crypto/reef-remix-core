@@ -11,3 +11,15 @@
     { "trait_type": "Mainnet Upgrade", "value": "Dec 16 (tentative)" }
   ]
 }
+{
+  "name": "Scutua — YES Vote",
+  "description": "🐋 Boss WhaleTrucker ✨ Reef legacy anchored. Scutua identity casts a YES vote for Galileo Upgrade. This badge immortalizes the governance ritual in reef archive, echoing splash.log and Swagger wave.",
+  "attributes": [
+    { "trait_type": "Caption", "value": "Scutua — YES Vote 🌊 Galileo Upgrade • Reef Legacy Minted" },
+    { "trait_type": "Identity", "value": "Scutua" },
+    { "trait_type": "Proposal", "value": "Galileo Upgrade" },
+    { "trait_type": "Vote", "value": "YES" },
+    { "trait_type": "Remix Role", "value": "Governance Ritualist" },
+    { "trait_type": "Wallet", "value": "0x029741f96dbc07f4160d647adae82019b65c253d" }
+  ]
+}
