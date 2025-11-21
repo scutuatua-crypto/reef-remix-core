@@ -1,0 +1,13 @@
+{
+  "name": "Scutua — Galileo Upgrade YES Vote",
+  "description": "Boss WhaleTrucker 🐋✨ governance ritual archived. Identity: Scutua (scutua@gmail.com). GitHub vault: t.chaisak2518@outlook.com. Vote: YES for Galileo Upgrade (Dec 4–11, 2025). Reason: Aligns Scroll with Ethereum compatibility, fixes MODEXP gas cost, strengthens prover performance.",
+  "attributes": [
+    { "trait_type": "Forum Handle", "value": "Scutua" },
+    { "trait_type": "Governance Email", "value": "scutua@gmail.com" },
+    { "trait_type": "GitHub Vault Email", "value": "t.chaisak2518@outlook.com" },
+    { "trait_type": "Proposal", "value": "Galileo Upgrade" },
+    { "trait_type": "Vote", "value": "YES" },
+    { "trait_type": "Voting Period", "value": "Dec 4–11, 2025" },
+    { "trait_type": "Mainnet Upgrade", "value": "Dec 16 (tentative)" }
+  ]
+}
