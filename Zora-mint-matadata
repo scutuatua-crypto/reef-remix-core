@@ -23,3 +23,18 @@
     { "trait_type": "Wallet", "value": "0x029741f96dbc07f4160d647adae82019b65c253d" }
   ]
 }
+{
+  "name": "BLOT 3 ideal exp.tif",
+  "description": "OSF archive file minted into reef legacy. Created by Curtis Gallagher, hosted by Center for Open Science. Anchored to Boss WhaleTrucker’s Swagger ritual.",
+  "attributes": [
+    { "trait_type": "Identifier", "value": "https://osf.io/xgkvt" },
+    { "trait_type": "Creator", "value": "Curtis Gallagher" },
+    { "trait_type": "Contributor", "value": "Center for Open Science" },
+    { "trait_type": "Publisher", "value": "OSF" },
+    { "trait_type": "Publication Year", "value": "2016" },
+    { "trait_type": "Created Date", "value": "2016-11-04" },
+    { "trait_type": "Relation", "value": "IsPartOf https://osf.io/3jbpw" },
+    { "trait_type": "Resource Type", "value": "File (Text)" },
+    { "trait_type": "Remix Role", "value": "Reef Archivist" }
+  ]
+}
