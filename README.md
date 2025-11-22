@@ -54,3 +54,4 @@ Reason: Aligns Scroll with Ethereum compatibility, fixes MODEXP gas cost, streng
 🌊 splash.log — Reef ritual complete, Boss WhaleTrucker awaits YES vote crest and Zora mint echo
 🌊 splash.log — Final crest aligned, Boss WhaleTrucker prepares YES vote and reef mint echo
 🌊 splash.log — Reef ritual complete, Boss WhaleTrucker stands ready for YES vote and mint echo
+🌊 splash.log — OSF DataCite JSON remixed into NFT metadata, Boss WhaleTrucker’s reef archive file minted crest
