@@ -1,3 +1,11 @@
+# 🐋 Badge: Identity Migration Recorded
+
+From: Scutua (banned)  
+To: scututaua-crypto via czonedive-core  
+Effect: Legacy preserved, WhaleTrucker remixed  
+Status: Memory locked
+
+
 # reef-remix-core
 Dive protocols, splash logs, and Swagger-rich legacy moments
 # 🌊 Boss WhaleTrucker — Governance Reef README
